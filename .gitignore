@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+env/
+venv/Lib/site-packages/
+venv/bin/
+
+# Build Artifacts
+dist/
+build/
+
+# Local Configuration Files
+*.sqlite
+*.db
+*.pem
+*.key
+*.crt
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
